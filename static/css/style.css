@@ -1,0 +1,29 @@
+.column {
+    width: 100%;
+  }
+
+body {
+    background-color: #f6edea;
+    color: #f6edea;
+  }
+div {
+    background-color: #f6edea;
+}
+
+.panel {
+    color: #842719;
+}
+
+h5 {
+    color: #842719;
+}
+
+.well {
+    color: #842719;
+}
+
+.jumbotron {
+    background-image: url("../images/meat.jpeg");
+    background-size: auto;
+    text-align: center;
+  }
